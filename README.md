@@ -1,4 +1,4 @@
-# Analyzing-Motorcycle-Parts-Sales
+# Analyzing Motorcycle Parts Sales
 ![Motorcycle](Motorcycle%20folder/d6752a54510f20d69f0ead15d89f25d0.jpg)
 ## Skills
 SQL: Aggregation (SUM), Date Manipulation (EXTRACT), Conditional Logic (CASE WHEN), Grouping (GROUP BY), Sorting and Filtering (WHERE and ORDER BY clauses).
